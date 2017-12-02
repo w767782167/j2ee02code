@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><contacts>
+    <linkman id="12">
+        <name>jack</name>
+        <email>yy@163.com</email>
+        <address>厦门市</address>
+        <group>第1组</group>
+    </linkman>
+    <linkman id="13">
+        <name>rose</name>
+        <email>se@163.com</email>
+        <address>厦门市</address>
+        <group>第2组</group>
+    </linkman>
+    
+
+
+</contacts>
